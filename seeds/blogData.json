@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Title 1",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis inventore quae expedita distinctio harum magnam sit, ad, unde aliquam optio? Impedit eligendi dignissimos dolore consequatur magnam temporibus, distinctio voluptates.",
+        "user_id": 1
+    },
+    {
+        "title": "Title 2",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis inventore quae expedita distinctio harum magnam sit, ad, unde aliquam optio? Impedit eligendi dignissimos dolore consequatur magnam temporibus, distinctio voluptates.",
+        "user_id": 2
+    },
+    {
+        "title": "Title 3",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis inventore quae expedita distinctio harum magnam sit, ad, unde aliquam optio? Impedit eligendi dignissimos dolore consequatur magnam temporibus, distinctio voluptates.",
+        "user_id": 3
+    }
+]
