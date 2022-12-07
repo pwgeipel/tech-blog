@@ -1,16 +1,16 @@
 [
     {
-        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "commentText": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "user_id": 1,
         "blog_id": 1
     },
     {
-        "comment": "Facilis blanditiis inventore quae expedita distinctio harum magnam sit, ad, unde aliquam optio?",
+        "commentText": "Facilis blanditiis inventore quae expedita distinctio harum magnam sit, ad, unde aliquam optio?",
         "user_id": 2,
         "blog_id": 2
     },
     {
-        "comment": "Impedit eligendi dignissimos dolore consequatur magnam temporibus, distinctio voluptates.",
+        "commentText": "Impedit eligendi dignissimos dolore consequatur magnam temporibus, distinctio voluptates.",
         "user_id": 3,
         "blog_id": 3
     }
