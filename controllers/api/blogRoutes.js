@@ -19,7 +19,7 @@ router.delete('/', withAuth, async (req, res) => {
             where: {
                 id: req.params.id,
             },
-        }),
+        })
         if (!blogData) {
             res.status(404).json({ message: 'Blog post with this id not found.' });
             return;
