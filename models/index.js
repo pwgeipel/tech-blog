@@ -1,7 +1,6 @@
 const User = require('./User');
 const Blog = require('./Blog');
 const Comment = require('./Comment');
-const { BLOB } = require('sequelize');
 
 User.hasMany(Blog, {
     foreignKey: 'user_id'
@@ -23,6 +22,5 @@ User.hasMany(Comment, {
     foreignKey: 'blog_id',
     onDelete: 'CASCADE'
 });
-
 
 module.exports = { User, Blog, Comment };
