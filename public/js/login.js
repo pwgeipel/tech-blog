@@ -1,6 +1,6 @@
 // const { JSON } = require("sequelize");
 
-const { response } = require("express");
+// const { response } = require("express");
 
 const loginForm = document.getElementById('login');
 const signupForm = document.getElementById('signup');
@@ -29,7 +29,7 @@ const handleSubmit = event => {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
-        }
+        },
         body: JSON.stringify(userData)
     }) 
 

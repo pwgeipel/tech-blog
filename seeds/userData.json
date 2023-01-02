@@ -1,14 +1,17 @@
 [
     {
         "name": "Larry",
+        "email": "larry@larry.com",
         "password": "stooge1"
     },
     {
         "name": "Moe",
+        "email": "moe@moe.com",
         "password": "stooge2" 
     },
     {
         "name": "Curly",
+        "email": "curly@curly.com",
         "password": "stooge3"
     }
 ]
