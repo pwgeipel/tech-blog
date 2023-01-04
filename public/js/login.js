@@ -10,14 +10,12 @@ const handleSubmit = event => {
         : '/api/users/login'
 
 
-    const { name: nameInput, 
-            email: emailInput, 
+    const { username: nameInput, 
             password: passwordInput 
         } = event.target.elements
 
     const userData = {
-        name: nameInput?.value,
-        email: emailInput.value,
+        username: nameInput?.value,
         password:passwordInput.value
     }
 
